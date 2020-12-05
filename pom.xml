@@ -52,24 +52,7 @@
 		</dependency>
 	</dependencies>
 	
-<distributionManagement>
-    <repository>
-        <uniqueVersion>false</uniqueVersion>
-        <id>corp1</id>
-        <name>Corporate Repository</name>
-        <url>http://65.0.6.123:8081/repository/HCL_Release/</url>
-        <layout>default</layout>
-    </repository>
 
-<repository>
-        <uniqueVersion>false</uniqueVersion>
-        <id>corp1</id>
-        <name>Corporate Repository</name>
-        <url>http://65.0.6.123:8081/repository/HCL_Release/</url>
-        <layout>default</layout>
-    </repository>
-
-</distributionManagement>
 	
 
 	<build>
